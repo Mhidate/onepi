@@ -1,0 +1,32 @@
+name: univ_onepiece
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/teknik.png
+    - images/brook.png
+    - images/copper.png
+    - images/bahasa.png
+    - images/franky.png
+    - images/luffy.png
+    - images/nami.png
+    - images/robin.png
+    - images/sanji.png
+    - images/usop.png
+    - images/zorro.png
+    - images/logo.png
